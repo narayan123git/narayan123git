@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I once climbed a mountain just to watch the sunrise from the top!
+⚡ Fun fact: I once climbed a mountain just to watch the sunrise from the top!(for fun only,actually I have still not climbed mountain)
 
 Feel free to connect and explore exciting opportunities together!
 
