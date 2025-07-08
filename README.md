@@ -64,8 +64,8 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [**VeloRide** – AI-Based Bicycle Sharing Platform](https://veloride-git-main-narayan-pauls-projects.vercel.app)  
-  _Tech Used: React, TailwindCSS, Node.js, MongoDB_
+- 🔗 [**VeloRide** – AI-Based Ride Sharing Platform](https://veloride-git-main-narayan-pauls-projects.vercel.app)  
+  _Tech Used: React, Express, TailwindCSS, Node.js, MongoDB, GSAP_
 
 - 🚗 **Vehicle Handling System using SQL**  
   _Built a structured database to manage vehicle records, including ownership, service history, and compliance data using SQL._
