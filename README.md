@@ -1,21 +1,89 @@
-👋 Hi, I’m Narayan Paul (@narayan123git)
+<h1 align="center">Hi 👋, I'm Narayan Paul</h1>
+<h3 align="center">A Passionate Developer | Problem Solver | ML Enthusiast</h3>
 
-👀 I’m interested in web development, system design, machine learning, data science, and problem-solving.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narayan123git&label=Profile%20views&color=0e75b6&style=flat" alt="narayan123git" />
+</p>
 
-🌱 I’m currently pursuing my B.Tech degree in Computer Science and Engineering at NIT Durgapur.
+---
 
-💞️ I’m looking to collaborate with individuals who share similar interests and vision to create something amazing.
+## 🚀 About Me
 
-📫 You can reach me via email: narayanpauliit20@gmail.com
+- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering** at **NIT Durgapur**.
+- 👀 I'm interested in **Web Development**, **System Design**, **Machine Learning**, and **Problem Solving**.
+- 🌱 I’m constantly learning new skills and improving existing ones.
+- 🤝 I’m open to **collaborations** on exciting projects and ideas.
+- 📫 Reach me at: [narayanpauliit20@gmail.com](mailto:narayanpauliit20@gmail.com)
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I haven’t climbed a mountain yet — but I dream of watching a sunrise from the top!
 
-😄 Pronouns: he/him
+---
 
-⚡ Fun fact: I once climbed a mountain just to watch the sunrise from the top!(for fun only,actually I have still not climbed mountain)
+## 🛠️ Tech Stack
 
-Feel free to connect and explore exciting opportunities together!
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### 🧠 Machine Learning / Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narayan123git&show_icons=true&theme=radical" alt="narayan123git" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=narayan123git&theme=radical" alt="streak-stats" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan123git&layout=compact&theme=radical" alt="Top Langs" height="180px" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [**VeloRide** – AI-Based Bicycle Sharing Platform](https://veloride.vercel.app)  
+  _Tech Used: React, TailwindCSS, Node.js, MongoDB_
+
+- 🔬 **AI-Based Anemia Detection from Hand Video (Ongoing)**  
+  _Using CNN, ViT, SciPy, OpenCV, and Deep Learning_
+
+- 💬 **Real-Time Chat App**  
+  _MERN stack + WebSocket with full user authentication_
+
+---
+
+## 💬 Let's Connect
+
+<p>
+  <a href="mailto:narayanpauliit20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/narayan123git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> _"Keep learning, keep building, and stay curious!"_
 
 <!---
 narayan123git/narayan123git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
