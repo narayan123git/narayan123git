@@ -60,16 +60,18 @@
 
 ---
 
+---
+
 ## 📂 Featured Projects
 
-- 🔗 [**VeloRide** – AI-Based Bicycle Sharing Platform](https://veloride.vercel.app)  
+- 🔗 [**VeloRide** – AI-Based Bicycle Sharing Platform](https://veloride-git-main-narayan-pauls-projects.vercel.app)  
   _Tech Used: React, TailwindCSS, Node.js, MongoDB_
 
-- 🔬 **AI-Based Anemia Detection from Hand Video (Ongoing)**  
-  _Using CNN, ViT, SciPy, OpenCV, and Deep Learning_
+- 🚗 **Vehicle Handling System using SQL**  
+  _Built a structured database to manage vehicle records, including ownership, service history, and compliance data using SQL._
 
-- 💬 **Real-Time Chat App**  
-  _MERN stack + WebSocket with full user authentication_
+- 🔣 **Quine-McCluskey Boolean Minimization Program**  
+  _Implemented a Python program to minimize Boolean functions using the Quine-McCluskey algorithm with prime implicant chart and logic simplification._
 
 ---
 
