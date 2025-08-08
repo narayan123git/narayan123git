@@ -88,9 +88,19 @@
 ## 💬 Let's Connect
 
 <p>
-  <a href="mailto:narayanpauliit20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/narayan123git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:narayanpauliit20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/narayan123git">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://narayanpaulportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
